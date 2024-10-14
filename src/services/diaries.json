@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "date": "2024-10-13",
+      "weather": "sunny",
+      "visibility": "Clear",
+      "comment": "A perfect day for outdoor activities."
+    },
+    {
+      "id": 2,
+      "date": "2024-10-12",
+      "weather": "cloudy",
+      "visibility": "Moderate",
+      "comment": "Some clouds but overall decent weather."
+    },
+    {
+      "id": 3,
+      "date": "2024-10-11",
+      "weather": "rainy",
+      "visibility": "Low",
+      "comment": "Heavy rain and poor visibility."
+    },
+    {
+      "id": 4,
+      "date": "2024-10-10",
+      "weather": "windy",
+      "visibility": "Very Low",
+      "comment": "Dense fog making it difficult to see."
+    },
+    {
+      "id": 5,
+      "date": "2024-10-09",
+      "weather": "stormy",
+      "visibility": "Low",
+      "comment": "Snowstorm with very limited visibility."
+    }
+  ]
+  
